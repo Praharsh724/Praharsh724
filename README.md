@@ -1,8 +1,8 @@
 # Hi 👋 I'm Praharsh Madasu
 
-## Software Developer Intern | Full Stack & Backend Developer
+## Software Developer  | Full Stack & Backend Developer
 
-I'm a Software Developer Intern at **Dwansys Technologies** and a final-year Computer Science student passionate about building scalable, production-ready web applications.
+I'm a Software Developer Intern at **Dwansys Technologies** and a Computer Science student passionate about building scalable, production-ready web applications.
 
 Currently, I'm contributing to **EduTrack**, an enterprise School ERP system, where I develop backend APIs, role-based workflows, and full-stack features using **NestJS, React, and PostgreSQL**.
 
